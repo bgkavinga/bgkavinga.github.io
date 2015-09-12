@@ -1,0 +1,12 @@
+# Site settings
+title: Kavinga Tech Pub
+email: gihan.seneviratna@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Day to day working experiances.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kavinga.com" # the base hostname & protocol for your site
+twitter_username: kavinga
+github_username:  bgkavinga
+
+# Build settings
+markdown: kramdown
